@@ -30,3 +30,7 @@ If you get `ModuleNotFoundError: No module named 'requests'`:
 Install dependencies:
 ```bash
 python -m pip install -r requirements.txt
+
+## Sample Run
+```bash
+python main.py
