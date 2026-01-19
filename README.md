@@ -13,6 +13,12 @@ A Python-based sales analytics pipeline that:
 - `data/enriched_sales_data.txt` — generated enriched output
 - `output/sales_report.txt` — generated report output
 
+## Filtering (Optional)
+When prompted:
+- Enter region like `North` / `South` / `East` / `West`
+- Enter min/max amount to filter by transaction value (Quantity * UnitPrice)
+- Press Enter to skip any filter
+
 ## Setup
 Install dependencies:
 ```bash
