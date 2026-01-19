@@ -18,3 +18,5 @@ A Python-based sales analytics pipeline that:
 ## Setup
 ```bash
 python -m pip install -r requirements.txt
+
+Updated README and correct author identity 
