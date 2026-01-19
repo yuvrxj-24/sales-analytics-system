@@ -20,6 +20,8 @@ When prompted:
 - Press Enter to skip any filter
 
 ## Setup
+## Troubleshooting
+If you get `ModuleNotFoundError: No module named 'requests'`:
 Install dependencies:
 ```bash
 python -m pip install -r requirements.txt
