@@ -19,6 +19,11 @@ When prompted:
 - Enter min/max amount to filter by transaction value (Quantity * UnitPrice)
 - Press Enter to skip any filter
 
+## Verify Outputs
+```powershell
+Get-Content .\data\enriched_sales_data.txt -TotalCount 3
+Get-Content .\output\sales_report.txt -TotalCount 30
+
 ## Setup
 ## Troubleshooting
 If you get `ModuleNotFoundError: No module named 'requests'`:
