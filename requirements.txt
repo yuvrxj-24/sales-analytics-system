@@ -1,0 +1,2 @@
+```powershell
+"requests" | Set-Content -Encoding UTF8 .\requirements.txt
